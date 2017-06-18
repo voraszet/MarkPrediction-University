@@ -1,0 +1,59 @@
+H:\Mark Prediction Program\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\bin\Debug\CourseWork2 MarkPredictionProgram.exe.config
+H:\Mark Prediction Program\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\bin\Debug\CourseWork2 MarkPredictionProgram.exe
+H:\Mark Prediction Program\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\bin\Debug\CourseWork2 MarkPredictionProgram.pdb
+H:\Mark Prediction Program\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.Form1.resources
+H:\Mark Prediction Program\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.MainForm.resources
+H:\Mark Prediction Program\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.Properties.Resources.resources
+H:\Mark Prediction Program\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.csproj.GenerateResource.Cache
+H:\Mark Prediction Program\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.exe
+H:\Mark Prediction Program\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.pdb
+H:\Mark Prediction Program\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.csprojResolveAssemblyReference.cache
+H:\Mark Prediction Program\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AddModuleControl.resources
+H:\Mark Prediction Program\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AddModuleForm.resources
+H:\Mark Prediction Program\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AddAssessments.resources
+H:\Mark Prediction Program\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AssessmentManagement.resources
+I:\Object Oriented II\asdasdas\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\bin\Debug\CourseWork2 MarkPredictionProgram.exe.config
+I:\Object Oriented II\asdasdas\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.exe
+I:\Object Oriented II\asdasdas\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.pdb
+I:\Object Oriented II\asdasdas\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\bin\Debug\CourseWork2 MarkPredictionProgram.exe
+I:\Object Oriented II\asdasdas\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\bin\Debug\CourseWork2 MarkPredictionProgram.pdb
+I:\Object Oriented II\asdasdas\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.csprojResolveAssemblyReference.cache
+I:\Object Oriented II\asdasdas\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AddAssessments.resources
+I:\Object Oriented II\asdasdas\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AddModuleControl.resources
+I:\Object Oriented II\asdasdas\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AddModuleForm.resources
+I:\Object Oriented II\asdasdas\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AssessmentManagement.resources
+I:\Object Oriented II\asdasdas\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.Form1.resources
+I:\Object Oriented II\asdasdas\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.MainForm.resources
+I:\Object Oriented II\asdasdas\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.Properties.Resources.resources
+I:\Object Oriented II\asdasdas\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.csproj.GenerateResource.Cache
+K:\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\bin\Debug\CourseWork2 MarkPredictionProgram.exe.config
+K:\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.exe
+K:\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.pdb
+H:\Object Oriented II\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\bin\Debug\CourseWork2 MarkPredictionProgram.exe.config
+H:\Object Oriented II\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.exe
+H:\Object Oriented II\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.pdb
+H:\Object Oriented II\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\bin\Debug\CourseWork2 MarkPredictionProgram.exe
+H:\Object Oriented II\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\bin\Debug\CourseWork2 MarkPredictionProgram.pdb
+H:\Object Oriented II\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.csprojResolveAssemblyReference.cache
+H:\Object Oriented II\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AddAssessments.resources
+H:\Object Oriented II\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AddModuleControl.resources
+H:\Object Oriented II\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AddModuleForm.resources
+H:\Object Oriented II\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AssessmentManagement.resources
+H:\Object Oriented II\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.Form1.resources
+H:\Object Oriented II\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.MainForm.resources
+H:\Object Oriented II\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.Properties.Resources.resources
+H:\Object Oriented II\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.csproj.GenerateResource.Cache
+I:\Object Oriented II\MARK PRED 3\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\bin\Debug\CourseWork2 MarkPredictionProgram.exe.config
+I:\Object Oriented II\MARK PRED 3\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.exe
+I:\Object Oriented II\MARK PRED 3\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.pdb
+I:\Object Oriented II\MARK PRED 3\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\bin\Debug\CourseWork2 MarkPredictionProgram.exe
+I:\Object Oriented II\MARK PRED 3\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\bin\Debug\CourseWork2 MarkPredictionProgram.pdb
+I:\Object Oriented II\MARK PRED 3\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.csprojResolveAssemblyReference.cache
+I:\Object Oriented II\MARK PRED 3\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AddAssessments.resources
+I:\Object Oriented II\MARK PRED 3\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AddModuleControl.resources
+I:\Object Oriented II\MARK PRED 3\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AddModuleForm.resources
+I:\Object Oriented II\MARK PRED 3\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.AssessmentManagement.resources
+I:\Object Oriented II\MARK PRED 3\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.Form1.resources
+I:\Object Oriented II\MARK PRED 3\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.MainForm.resources
+I:\Object Oriented II\MARK PRED 3\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2_MarkPredictionProgram.Properties.Resources.resources
+I:\Object Oriented II\MARK PRED 3\Mark Prediction Program 2\OO II\CourseWork2 MarkPredictionProgram\CourseWork2 MarkPredictionProgram\obj\Debug\CourseWork2 MarkPredictionProgram.csproj.GenerateResource.Cache
